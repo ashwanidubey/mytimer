@@ -1,4 +1,4 @@
-/*.App {
+.App {
 
   text-align: center;
   height: 100%;
@@ -6,7 +6,7 @@
   align-items: center;
   justify-content: center;
    
-}*/
+}
 #timer
 {
   font-size:70px;
